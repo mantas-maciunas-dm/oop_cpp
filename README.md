@@ -1,3 +1,21 @@
-Programa, sauganti studentų duomenis.
+Programa testuoja ir palygina std::vector ir std::list naudodama įvairaus dydžio sąrašus.
 
-Pasileiskite programą, ji Jūsų paklaus, ar norite įvesti studentų duomenis. Jei taip, įveskite 'y' ir spauskite Enter bei tęskite toliau aprašytus žingsnius. Paspaudus Enter, programa Jūsų paklaus studento vardo bei pavardės, kuriuos reikėtų įvesti tokiu pačiu būdu. Tada programa Jūsų paklaus, ar norite įvesti egzamino bei namų darbų rezultatus patys, ar juos sugeneruoti. Įvedę 'p', juos rašysite patys, kuriuo atveju veskite namų darbų rezultatus, o kai jau būsite įvedę užtektinai, įveskite -1, taip nutraukdami namų darbų įvedimą, ir tada galėsite įvesti egzamino rezultatą. Jei visgi pasirinkote duomenis sugeneruoti atsitiktinai, Jums nieko daugiau daryti nereikia - programa atsitiktinai sugeneruos nuo 1 iki 10 namų darbų rezultatų ir egzamino rezultatą. Toliau galėsite pasirinkti, ar norite įvesti kito studento duomenis. Jei įvesite 'y', kartokite jau aprašytus veiksmus, o įvedę 'n' nutrauksite studentų įvedinėjimo procesą. Galiausiai galite pasirinkti, ar norite, kad galutinis balas būtų skaičiuojamas pagal vidurkį('v') ar pagal medianą('m'). Įvedę 'm' arba 'v' matysite suskaičiuoto galutinio balo lentelę.
+Naudota įranga:
+
+CPU: AMD Ryzen 5 2600 Six-Core Processor, 3400 MHz, 6 Cores, 12 Logical Processors.
+
+RAM: 16GB
+
+HDD ir SSD
+
+![failu_sukurimas](https://user-images.githubusercontent.com/113544863/199797071-fc255752-c63a-4a27-808b-ad8469a42cf5.PNG)
+
+![1000](https://user-images.githubusercontent.com/113544863/199797092-3d7a9887-bb61-416b-828e-c4a3a562d544.PNG)
+
+![10000](https://user-images.githubusercontent.com/113544863/199797108-56d72f44-e9b0-4946-a58b-92d392d4cf7a.PNG)
+
+![100000](https://user-images.githubusercontent.com/113544863/199797265-649f1316-70a2-4cdb-b07e-f33d7c646303.PNG)
+
+![1000000](https://user-images.githubusercontent.com/113544863/199797279-27250c4e-0c90-4de3-9e71-1f3603e69473.PNG)
+
+![10000000](https://user-images.githubusercontent.com/113544863/199797291-1d0518dc-9740-43d4-8b4c-49840cea3d09.PNG)
