@@ -6,7 +6,7 @@ CPU: AMD Ryzen 5 2600 Six-Core Processor, 3400 MHz, 6 Cores, 12 Logical Processo
 
 RAM: 16GB
 
-HDD ir SSD
+SSD
 
 ![failu_sukurimas](https://user-images.githubusercontent.com/113544863/199797071-fc255752-c63a-4a27-808b-ad8469a42cf5.PNG)
 
