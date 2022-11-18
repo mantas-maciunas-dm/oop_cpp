@@ -1,4 +1,4 @@
-Programa testuoja ir palygina std::vector ir std::list naudodama įvairaus dydžio sąrašus.
+Programa testuoja ir palygina std::vector ir std::list naudodama įvairaus dydžio sąrašus ir tris skirtingas strategijas.
 
 Naudota įranga:
 
@@ -8,14 +8,16 @@ RAM: 16GB
 
 SSD
 
-![failu_sukurimas](https://user-images.githubusercontent.com/113544863/199797071-fc255752-c63a-4a27-808b-ad8469a42cf5.PNG)
+Pirmoji strategija:
+![pirmoji_strategija](https://user-images.githubusercontent.com/113544863/202709590-d9ab50fd-dcf6-4694-ab34-15015c81b987.PNG)
 
-![1000](https://user-images.githubusercontent.com/113544863/199797092-3d7a9887-bb61-416b-828e-c4a3a562d544.PNG)
 
-![10000](https://user-images.githubusercontent.com/113544863/199797108-56d72f44-e9b0-4946-a58b-92d392d4cf7a.PNG)
+Šioje strategijoje spartos padidinimui buvo panaudotos remove_if ir remove_copy_if funkcijos.
+Antra strategija be šių funkcijų:
+![antroji_strategija](https://user-images.githubusercontent.com/113544863/202709614-a412011d-c38d-4195-9c29-d55db6ef75c1.PNG)
+Antra strategija su šiomis funkcijomis:
+![Capture](https://user-images.githubusercontent.com/113544863/202712500-2746a973-d990-4949-94fd-109275697014.PNG)
 
-![100000](https://user-images.githubusercontent.com/113544863/199797265-649f1316-70a2-4cdb-b07e-f33d7c646303.PNG)
 
-![1000000](https://user-images.githubusercontent.com/113544863/199797279-27250c4e-0c90-4de3-9e71-1f3603e69473.PNG)
-
-![10000000](https://user-images.githubusercontent.com/113544863/199797291-1d0518dc-9740-43d4-8b4c-49840cea3d09.PNG)
+Trečioji strategija:
+![trecioji_strategija](https://user-images.githubusercontent.com/113544863/202709627-baab2382-c175-48d4-b405-3ac8eced79af.PNG)
